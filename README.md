@@ -1,5 +1,7 @@
 # Custom skins demo for react-rotary-knob
 
+[Demo](https://hugozap.github.io/react-rotary-knob-custom-skins-demo/)
+
 This repository contains 2 custom skins
 for demostration purposes. The skin system
 used by [react-rotary-knob](https://github.com/hugozap/react-rotary-knob)

@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        
+          <a href="https://hugozap.github.io/react-rotary-knob-custom-skins-demo/"> Source (Github) </a>
           <Knob preciseMode={false} style={{width:'300px', height:'300px'}} min={0} max={100} skin={transitionSkin} />
           <Knob preciseMode={false} style={{width:'300px', height:'300px'}} min={0} max={100} skin={morphSkin} />
 
